@@ -103,7 +103,7 @@ if _name_ == '_main_':
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](2gJYAEUDXpk)]https://youtu.be/2gJYAEUDXpk
+https://youtu.be/2gJYAEUDXpk
 
 <br/>
 <br/>
